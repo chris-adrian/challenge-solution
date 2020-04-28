@@ -1,0 +1,10 @@
+export default [
+    {'id':777,'from':'chris.adrian@gmail.com','to':'hennge.challenge@test.com', 'replies':1, 'subject':'Front End Web Developer Application', 'isClipped':true, 'body':'A passionate web developer with an almost 3 years worth of experience in crafting and maintaining web applications on a myriad of platforms, with clients from different origins and having varied specifications for their websites. Able to adapt inorder to meet requirements, be it in the projects or the knowledge necessary to complete the task.','date': new Date(2020,3,28)},
+    {'id':612,'from':'aaa@example.com','to':'zzz.zzz@example.com', 'replies':0, 'subject':'[ HR-888 ] Notice of official announcement', 'isClipped':true, 'body':'some message here...','date': new Date(2020,3,26)},
+    {'id':423,'from':'ccc@example.com','to':'xxx@example.com', 'replies':1, 'subject':'Happy New Year! Greetings for the New Year','isClipped':false, 'body':'Happy new year to everyone! yay!','date':new Date(2020,0,1)},
+    {'id':514,'from':'bbb.bbbb@example.com','to':'yyy@example.com', 'replies':2, 'subject':'[web:333] "Web Contact"','isClipped':false, 'body':'another sample mesage','date':new Date(2020,2,1)},
+    {'id':314,'from':'ddd.dddd@example.com','to':'vvv.vvv@example.com,xxx@example.com', 'replies':0, 'subject':'[HR-887(Revised: Office Expansion Project Team)]','isClipped':true, 'body':'Notice of office expansion','date':new Date(2019,5,12)},
+    {'id':356,'from':'hyjwcaw.tjd5f@example.com','to':'f2v2c.36vt@example.com,xxx@example.com', 'replies':5, 'subject':'No-reply : Automated cancelation...','isClipped':true, 'body':'Notice of office expansion','date':new Date(1995,3,26)},
+    {'id':8645,'from':'yjhdgh.3v3c@example.com','to':'awcfaf3.dcaw@example.com,xxx@example.com', 'replies':3, 'subject':'Some random subject.','isClipped':false, 'body':'awccsrgv5c3w4c32ctwgxrgcdhrxczgx','date':new Date(2012,7,9)},
+    {'id':12,'from':'gfklfesjlk.t5w@example.com','to':'adjkrd.w0a@example.com,xxx@example.com', 'replies':0, 'subject':'Just a simple subject','isClipped':false, 'body':'some random string','date':new Date(2015,11,17)},
+]
